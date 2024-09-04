@@ -19,4 +19,4 @@
 
 ### Mobile View
 
-![Mobile view](mobile.png)
+![Mobile view](mobileview.png)
