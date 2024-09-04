@@ -1,5 +1,7 @@
 # Gpt3
 
+https://gpt3-sb.pages.dev/
+
 ## Features ⚡
 * Single Landing Page
 * Fully responsive for mobile devices
